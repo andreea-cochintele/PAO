@@ -1,3 +1,2 @@
 # PAO
 
-Gestiune admitere
